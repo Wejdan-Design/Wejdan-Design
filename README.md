@@ -1,3 +1,5 @@
+<img src="banner.png" alt="Wejdan Abdulaziz, Brand Identity and Canva Templates" width="100%">
+
 # Wejdan Abdulaziz
 
 Visual identity designer. I create complete brand identities for small businesses, including cafes, fashion and restaurant brands.
