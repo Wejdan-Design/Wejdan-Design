@@ -1,16 +1,23 @@
-## Hi there 👋
+# Wejdan Abdulaziz
 
-<!--
-**Wejdan-Design/Wejdan-Design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Visual identity designer. I create complete brand identities for small businesses, including cafes, fashion and restaurant brands.
 
-Here are some ideas to get you started:
+## Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Behance: https://www.behance.net/wejdan_design_
+
+Instagram: https://www.instagram.com/wejdan_design_
+
+Online store: https://wejdan-designs.raqmi.store
+
+## Selected work
+
+[Shahin: logo design for a menswear brand](https://github.com/Wejdan-Design/shahin-logo-design)
+
+## Tools
+
+Adobe Illustrator, Canva
+
+## Contact
+
+wejdan.designs.sa@outlook.com
