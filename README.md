@@ -12,7 +12,10 @@ Online store: https://wejdan-designs.raqmi.store
 
 ## Selected work
 
-[Shahin: logo design for a menswear brand](https://github.com/Wejdan-Design/shahin-logo-design)
+- [Shahin: logo design for a menswear brand](https://github.com/Wejdan-Design/shahin-logo-design)
+- [Maitha: brand identity and packaging for a contemporary women's abaya brand](https://github.com/Wejdan-Design/maitha-brand-identity)
+- [Abaya Suga: brand identity and packaging for a modern abaya brand](https://github.com/Wejdan-Design/suga-abaya-brand-identity)
+- [Moki: brand identity and packaging for a playful ice cream shop](https://github.com/Wejdan-Design/moki-brand-identity)
 
 ## Tools
 
